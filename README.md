@@ -22,6 +22,7 @@ In the "GitHub repository name or URL" textbox, type `datacamp/workspace-tutoria
 
 Click "Create workspace".
 
-![image](https://user-images.githubusercontent.com/197589/163863631-0df21011-4dcd-41e1-b441-07f534a72ca6.png)
+![image](https://user-images.githubusercontent.com/197589/165815626-a3d45d91-f79e-47e6-9474-789af382f873.png)
+
 
 
